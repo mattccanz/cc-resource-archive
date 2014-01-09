@@ -97,6 +97,10 @@ float: left;
 display: none;
 }
 
+.resourcenav.resourcenavstatic {
+display: block;
+}
+
 #greenbanner {
 width: 100%;
 height: 40px;

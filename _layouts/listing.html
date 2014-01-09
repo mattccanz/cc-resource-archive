@@ -85,12 +85,6 @@ document.write("<style>");
 
 	{% endif %}
 
-	{% assign topicfilter = page.topicfilter %}
-	{% assign mediumfilter = page.mediumfilter %}
-	{% assign languagefilter = page.languagefilter %}
-	{% assign title == page.title %}
-
-
 </head>
 
 
@@ -109,51 +103,6 @@ Creative Commons Resource Archive
 </h1>
 
 {{content}}
-
-	{% if page.title == "All" %}
-<div id="resourcenavbar">
-
-<div class="resourcenav resourcenavtopicknown">
-<h2>Topic</h2>
-<p><script>document.write(topic);</script> [<a onclick="location.href=location.href.replace(/&?topic=([^&]$|[^&]*)/i, '');" href="#">x</a>]</p>
-</div>
-
-<div class="resourcenav resourcenavtopicunknown">
-<h2>Topic</h2>
-<ul>
-	{% for topic in site.data.topics %}
-		<li><a onclick="window.location.search += '&topic={{ topic.string }}';" href="#">{{ topic.name }}</a></li>
-	{% endfor %}
-</ul>
-</div>
-
-<div class="resourcenav resourcenavmediumknown">
-<h2>Medium</h2>
-<p><script>document.write(medium);</script> [<a onclick="location.href=location.href.replace(/&?medium=([^&]$|[^&]*)/i, '');" href="#">x</a>]</p>
-<p></p>
-</div>
-
-<div class="resourcenav resourcenavmediumunknown">
-<h2>Medium</h2>
-<ul>
-	{% for medium in site.data.media %}
-		<li><a onclick="window.location.search += '&medium={{ medium.string }}';" href="#">{{ medium.name }}</a></li>
-	{% endfor %}
-</ul>
-</div>
-
-<div class="resourcenav resourcenavlanguageknown">
-<h2>Language</h2>
-<p><script>document.write(language);</script> [<a onclick="location.href=location.href.replace(/&?language=([^&]$|[^&]*)/i, '');" href="#">x</a>]</p>
-</div>
-
-<div class="resourcenav resourcenavlanguageunknown">
-<h2>Language</h2>
-<p><a onclick="window.location.search += '&language=es';" href="#">ES</a> <a onclick="window.location.search += '&language=ca';" href="#">CA</a> <a onclick="window.location.search += '&language=da';" href="#">DA</a> <a onclick="window.location.search += '&language=de';" href="#">DE</a> <a onclick="window.location.search += '&language=en';" href="#">EN</a> <a onclick="window.location.search += '&language=eo';" href="#">EO</a> <a onclick="window.location.search += '&language=fr';" href="#">FR</a> <a onclick="window.location.search += '&language=hr';" href="#">HR</a> <a onclick="window.location.search += '&language=id';" href="#">ID</a> <a onclick="window.location.search += '&language=sv';" href="#">SV</a> </p>
-</div>
-</div>
-
-	{% endif %}
 
 
 
