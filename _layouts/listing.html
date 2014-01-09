@@ -121,12 +121,9 @@ Creative Commons Resource Archive
 <div class="resourcenav resourcenavtopicunknown">
 <h2>Topic</h2>
 <ul>
-<li><a onclick="window.location.search += '&topic=licenses';" href="#">Licenses</a></li>
-<li><a onclick="window.location.search += '&topic=publicdomain';" href="#">Public Domain</a></li>
-<li><a onclick="window.location.search += '&topic=oer';" href="#">Open Educational Resources</a></li>
-<li><a onclick="window.location.search += '&topic=oa';" href="#">Open Access</a></li>
-<li><a onclick="window.location.search += '&topic=science';" href="#">Science</a></li>
-<li><a onclick="window.location.search += '&topic=openpolicy';" href="#">Open Policy</a></li>
+	{% for topic in site.data.topics %}
+		<li><a onclick="window.location.search += '&topic={{ topic.string }}';" href="#">{{ topic.name }}</a></li>
+	{% endfor %}
 </ul>
 </div>
 
@@ -139,10 +136,9 @@ Creative Commons Resource Archive
 <div class="resourcenav resourcenavmediumunknown">
 <h2>Medium</h2>
 <ul>
-<li><a onclick="window.location.search += '&medium=print';" href="#">Print</a></li>
-<li><a onclick="window.location.search += '&medium=website';" href="#">Website</a></li>
-<li><a onclick="window.location.search += '&medium=slides';" href="#">Slides</a></li>
-<li><a onclick="window.location.search += '&medium=course';" href="#">Course</a></li>
+	{% for medium in site.data.media %}
+		<li><a onclick="window.location.search += '&medium={{ medium.string }}';" href="#">{{ medium.name }}</a></li>
+	{% endfor %}
 </ul>
 </div>
 
