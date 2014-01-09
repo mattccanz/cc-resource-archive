@@ -27,7 +27,7 @@ title: Home
 <h2>Language</h2>
 <p>
 	{% for language in site.data.languages %}
-		<a href="/all?&medium={{ language.string }}">{{ language.string | upcase }}</a>
+		<a href="/all?&language={{ language.string }}">{{ language.string | upcase }}</a>
 	{% endfor %}
 </div>
 
