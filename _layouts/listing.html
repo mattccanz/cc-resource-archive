@@ -121,15 +121,12 @@ Creative Commons Resource Archive
 <div class="resourcenav resourcenavtopicunknown">
 <h2>Topic</h2>
 <ul>
-	{% for topic in site.data.topics %}
-		<li><a onclick="window.location.search += '&topic={{ topic.string }}';" href="#">{{ topic.name }}</a></li>
-	{% endfor %}
-<!-- <li><a onclick="window.location.search += '&topic=licenses';" href="#">Licenses</a></li>
+<li><a onclick="window.location.search += '&topic=licenses';" href="#">Licenses</a></li>
 <li><a onclick="window.location.search += '&topic=publicdomain';" href="#">Public Domain</a></li>
 <li><a onclick="window.location.search += '&topic=oer';" href="#">Open Educational Resources</a></li>
 <li><a onclick="window.location.search += '&topic=oa';" href="#">Open Access</a></li>
 <li><a onclick="window.location.search += '&topic=science';" href="#">Science</a></li>
-<li><a onclick="window.location.search += '&topic=openpolicy';" href="#">Open Policy</a></li> -->
+<li><a onclick="window.location.search += '&topic=openpolicy';" href="#">Open Policy</a></li>
 </ul>
 </div>
 
