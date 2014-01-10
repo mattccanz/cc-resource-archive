@@ -29,10 +29,11 @@
 <h1><a href="/">Creative Commons Resource Archive</a></h1>
 <h2><a href="/all">All Resources</a></h2>
 
-<p>{{currentpage}}</p>
+<h3 style="text-align: center; ">{{ page.title }}</a></h3>
 
-<h3 style="margin-left: auto; margin-right: auto; ">{{ page.title }}</a></h3>
-
+	{% if page.embed %}
+	<div align="center">{{ page.embed }}</div>
+	{% else %}
 	{% if page.downloadurl %}
 		<a href="{{ page.downloadurl }}" target="_blank">
 	{% endif %}
@@ -46,13 +47,15 @@
 	{% if page.downloadurl %}
 		</a>
 	{% endif %}
-
+	{% endif %}
+	{% if page.downloadurl or page.repourl %}
 <div id="downloadbuttonholder">
+	{% endif %}
 
 	{% if page.downloadurl %}
 		<a href="{{ page.downloadurl }}" target="_blank">
 		<div class="downloadbutton">
-		{% if page.medium == "website" %} 
+		{% if page.medium == "website" or page.medium == "course" %} 
 			<p>Visit</p>
 		{% else %}
 			<p>Download</p>
@@ -69,8 +72,14 @@
 		</a>
 	{% endif %}
 
-</div>
+	{% if page.downloadurl or page.repourl %}
+		</div>
+	{% endif %}
+
 <div style="clear: both;"></div>	
 {{content}}
+
+
+
 </body>
 </html>
