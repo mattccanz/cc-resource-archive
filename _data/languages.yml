@@ -1,4 +1,4 @@
-- string: es
+- string: ar
 
 - string: ca
 
@@ -6,9 +6,15 @@
 
 - string: de
 
+- string: el
+
 - string: en
 
+- string: es
+
 - string: eo
+
+- string: fi
 
 - string: fr
 
@@ -16,7 +22,11 @@
 
 - string: id
 
+- string: is
+
 - string: it
+
+- string: ko
 
 - string: ms
 
@@ -28,18 +38,10 @@
 
 - string: pt
 
-- string: fi
+- string: ru
 
 - string: sv
-
-- string: is
-
-- string: el
-
-- string: ru
 
 - string: uk
 
 - string: zh
-
-- string: ko
