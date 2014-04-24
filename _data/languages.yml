@@ -1,47 +1,19 @@
 - string: ar
 
-- string: ca
-
-- string: da
-
-- string: de
-
-- string: el
-
 - string: en
 
-- string: es
-
-- string: eo
-
-- string: fi
-
-- string: fr
-
-- string: hr
-
-- string: id
-
-- string: is
-
-- string: it
+- string: ja
 
 - string: ko
 
-- string: ms
+- string: lg
 
-- string: nl
-
-- string: "no"
+- string: mn
 
 - string: pl
 
-- string: pt
-
-- string: ru
+- string: ro
 
 - string: sv
 
-- string: uk
-
-- string: zh
+- string: tl
