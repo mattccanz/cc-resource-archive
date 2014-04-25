@@ -2,6 +2,10 @@
 
 - string: en
 
+- string: hy
+
+- string: it
+
 - string: ja
 
 - string: ko
@@ -13,6 +17,8 @@
 - string: pl
 
 - string: ro
+
+- string: ru
 
 - string: sv
 
