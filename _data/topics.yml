@@ -10,8 +10,8 @@
 - name: Open Access
   string: oa
   
-- name: Science
-  string: science
+- name: Open Science
+  string: openscience
   
 - name: Open Policy
   string: openpolicy
