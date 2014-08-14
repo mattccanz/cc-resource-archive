@@ -15,9 +15,3 @@
 
 - name: Slides
   string: slides
-  
-- name: Toolkit
-  string: toolkit
-  
-- name: Game
-  string: game
