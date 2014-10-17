@@ -1,5 +1,6 @@
 ---
-title: Open Educational Resources: What's In It For Me?
+title: |
+  Open Educational Resources: What's In It For Me?
 published: true
 weight: 3
 featured: 10
@@ -17,7 +18,5 @@ author: European Open Education Policy Project
 license: CC BY 4.0
 ---
 
-Created during a 2-day workshop meeting of open education enthusiasts in Porto, Portugal.
-
-Related blog post: http://oerpolicy.eu/postcard-from-the-oer-workshop-in-porto/
+Created during a 2-day workshop meeting of open education enthusiasts in Porto, Portugal ([related blog post](http://oerpolicy.eu/postcard-from-the-oer-workshop-in-porto/)).
 
