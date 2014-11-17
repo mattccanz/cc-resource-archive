@@ -11,11 +11,18 @@ h1 {
 text-align: center;
 }
 
+#thumbnaillist:before {
+	content: " ";
+	width:100%;
+	clear:both;
+}
+
 #thumbnaillist {
 max-width: 900px;
 min-width: 250px;
 margin-left: auto;
 margin-right: auto;
+clear:both;
 }
 
 #preview {
@@ -93,7 +100,7 @@ color: white;
 }
 
 #resourcenavbar {
-width: 600px;
+width: 400px;
 height: 150px;
 margin-left: auto;
 margin-right: auto;
