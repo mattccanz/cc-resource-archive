@@ -11,7 +11,7 @@ h1 {
 text-align: center;
 }
 
-#thumbnaillist:before {
+#thumbnaillist::before {
 	content: " ";
 	width:100%;
 	clear:both;
