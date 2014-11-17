@@ -3,7 +3,7 @@ font-family: sans-serif;
 }
 
 a {
-color: #40ae49;
+color: #a11d2b;
 cursor:pointer;
 }
 
@@ -82,7 +82,7 @@ width: 200px;
 height: 100px;
 float: left;
 border-radius: 12px;
-background-color: #40ae49;
+background-color: #a11d2b;
 float: left;
 display: table-cell;
 vertical-align: middle;
