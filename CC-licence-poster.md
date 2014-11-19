@@ -1,9 +1,9 @@
 ---
-title: Six licenses for sharing your work
+title: CC Licence Poster
 published: true
 layout: resource
 weight: 1
-featured: 1
+featured: 14
 author: Creative Commons Aotearoa New Zealand
 license: CC BY
 image-full: /images/CC_poster.jpeg
