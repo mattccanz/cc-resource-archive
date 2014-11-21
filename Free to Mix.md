@@ -16,3 +16,5 @@ embed:
 author: Creative Commons Aotearoa New Zealand
 license: CC BY 3.0
 ---
+
+A short introduction for high schools students to finding and remixing open content
