@@ -4,7 +4,7 @@ title: Free to Mix
 published: true
 weight: 1
 featured: 15
-image-full: /images/FreetoMix 500.PNG
+image-full: /images/FreetoMix500.PNG
 image-thumb: /images/Free to Mix2.gif
 topic: Open Educational Resources
 language: en
