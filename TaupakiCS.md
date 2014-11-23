@@ -9,7 +9,7 @@ image-thumb: /images/TaupakiCS200150.jpg
 topic: oer
 language: en
 medium: website
-permalink: /TaupakiCS
+permalink: /taupkai-school-case-study/
 blurb: Taupaki School Case Study
 downloadurl: http://nzcommons.org.nz/project/taupaki-school/
 embed:

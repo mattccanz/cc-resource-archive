@@ -9,7 +9,7 @@ image-thumb: /images/LethbridgeBlog200150.jpg
 topic: oer
 language: en
 medium: website
-permalink: /Lethbridgeblog
+permalink: /stephen-lethbridge-on-cc-policies/
 blurb: Blog by Taupaki School principal Stephen Lethbridge on Creative Commons policies
 downloadurl: http://stephenlethbridge.com/?p=135
 embed:

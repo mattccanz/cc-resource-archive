@@ -9,7 +9,7 @@ image-thumb: /images/DigitalMakeItDigital200150.jpg
 topic: openglam
 language: en
 medium: website
-permalink: /Make-It-Digital
+permalink: /digitalnz-make-it-digital/
 blurb: Digitisation guides from DigitalNZ
 downloadurl: http://www.digitalnz.org/make-it-digital
 embed:

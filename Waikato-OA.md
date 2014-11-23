@@ -9,7 +9,7 @@ image-thumb: /images/WaikatoOA200150.jpg
 topic: oa
 language: en
 medium: website
-permalink: /Waikato-OA
+permalink: /university-of-waikato-open-access-case-study/
 blurb: Case study on University of Waikato's mandatory deposit open access policy
 downloadurl: http://nzcommons.org.nz/project/open-access-university-waikato/
 embed:

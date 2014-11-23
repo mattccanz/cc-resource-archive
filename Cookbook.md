@@ -9,7 +9,7 @@ image-thumb: /images/MediaStudies101Cookbook200150.jpg
 topic: oer
 language: en
 medium: print
-permalink: /Cookbook
+permalink: /open-textbook-cookbook/
 blurb: Cookbook for the writing of an open textbook
 downloadurl: http://otago.ourarchive.ac.nz/handle/10523/4820
 embed:

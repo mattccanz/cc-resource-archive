@@ -9,7 +9,7 @@ image-thumb: /images/PoliciesforSchools200150.jpg
 topic: oer
 language: en
 medium: print
-permalink: /CC-policy-brochure
+permalink: /creative-commons-policies-for-schools-brochure/	
 blurb: Brochure on Creative Commons policies for schools
 downloadurl: http://creativecommons.org.nz/wp-content/uploads/2013/11/schools-brochure.pdf
 embed:

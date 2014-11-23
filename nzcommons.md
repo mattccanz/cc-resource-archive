@@ -9,7 +9,7 @@ image-thumb: /images/NZCommons200150.jpg
 topic: licences
 language: en
 medium: website
-permalink: /NZCommons
+permalink: /nzcommons/
 blurb: Website for New Zealand's open communities 
 downloadurl: http://nzcommons.org.nz/
 embed:

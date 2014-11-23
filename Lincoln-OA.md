@@ -9,7 +9,7 @@ image-thumb: /images/LincolnOA200150.jpg
 topic: oa
 language: en
 medium: website
-permalink: /Lincoln-OA
+permalink: /lincoln-university-open-access-case-study/
 blurb: Case study on Lincoln University's open access policy
 downloadurl: http://nzcommons.org.nz/project/lincoln-universitys-open-access-policy/
 embed:

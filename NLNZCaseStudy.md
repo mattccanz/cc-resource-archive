@@ -9,7 +9,7 @@ image-thumb: /images/NLNZCaseStudy200150.jpg
 topic: openglam
 language: en
 medium: website
-permalink: /NLNZCaseStudy
+permalink: /national-library-of-new-zealand-case-study/
 blurb: Case Study on the National Library of New Zealand's Reuse Policy
 downloadurl: http://nzcommons.org.nz/project/nlnz-reuse-policy/
 embed:

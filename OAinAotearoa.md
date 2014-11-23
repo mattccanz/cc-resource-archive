@@ -9,7 +9,7 @@ image-thumb: /images/OAinAotearoa200150.jpg
 topic: oa
 language: en
 medium: print
-permalink: /OainAotearoa
+permalink: /open-access-in-aotearoa/
 blurb: 12 page introduction to open access in Aotearoa New Zealand
 downloadurl: http://creativecommons.org.nz/wp-content/uploads/2012/07/Open-Access-in-Aotearoaset-to-print.pdf
 embed:

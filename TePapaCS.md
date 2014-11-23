@@ -9,7 +9,7 @@ image-thumb: /images/TePapaCaseStudy200150.jpg
 topic: openglam
 language: en
 medium: website
-permalink: /TePapaCS
+permalink: /te-papa-case-study/
 blurb: Te Papa Case Study
 downloadurl: http://nzcommons.org.nz/project/te-papas-openly-licensed-images/
 embed:
