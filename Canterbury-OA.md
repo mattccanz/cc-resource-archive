@@ -9,7 +9,7 @@ image-thumb: /images/CanterburyOA200150.jpg
 topic: oa
 language: en
 medium: website
-permalink: /canterbury-OA
+permalink: /university-of-canterbury-open-access-case-study
 blurb: Case study on the University of Canterbury's mandatory deposit open access policy
 downloadurl: http://nzcommons.org.nz/project/mandatory-research-deposit-university-canterbury/
 embed:
