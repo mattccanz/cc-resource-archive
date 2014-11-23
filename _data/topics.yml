@@ -7,8 +7,5 @@
 - name: Open Access
   string: oa
 
-- name: Open Data
-  string: opendata
-
 - name: Open GLAM
   string: openglam
