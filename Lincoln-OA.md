@@ -13,6 +13,6 @@ permalink: /Lincoln-OA
 blurb: Case study on Lincoln University's open access policy
 downloadurl: http://nzcommons.org.nz/project/lincoln-universitys-open-access-policy/
 embed:
-author: Creative Commons Aotearoa New Zea;and
+author: Creative Commons Aotearoa New Zealand
 license: CC BY 
 ---

@@ -13,7 +13,7 @@ permalink: /canterbury-OA
 blurb: Case study on the University of Canterbury's mandatory deposit open access policy
 downloadurl: http://nzcommons.org.nz/project/mandatory-research-deposit-university-canterbury/
 embed:
-author: Creative Commons Aotearoa New Zea;and
+author: Creative Commons Aotearoa New Zealand
 license: CC BY 
 ---
 
