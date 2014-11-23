@@ -18,3 +18,6 @@
   
 - name: Open Data
   string: opendata
+
+- name: Open GLAM
+  string: openglam
