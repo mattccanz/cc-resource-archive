@@ -2,7 +2,7 @@
 layout: resource
 title: Building on the Past
 published: true
-weight: 1
+weight: 2
 featured: 7
 image-full: /images/buildingonthepast-500.png
 image-thumb: /images/buildingonthepast-200.png

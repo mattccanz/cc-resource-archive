@@ -2,7 +2,7 @@
 title: Creative Commons Policies for Schools Brochure	
 published: true
 weight: 2
-featured: 
+featured: 4
 layout: resource
 image-full: /images/PoliciesforSchools500375.jpg
 image-thumb: /images/PoliciesforSchools200150.jpg

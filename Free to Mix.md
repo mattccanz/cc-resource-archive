@@ -3,7 +3,7 @@ layout: resource
 title: Free to Mix
 published: true
 weight: 1
-featured: 15
+featured: 3
 image-full: /images/FreetoMix500.PNG
 image-thumb: /images/Free to Mix2.gif
 topic: Open Educational Resources

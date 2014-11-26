@@ -1,8 +1,8 @@
 ---
 title: Creative Commons Kiwi
 published: true
-weight: 2
-featured: 4
+weight: 1
+featured: 1
 layout: resource
 image-full: /images/creative-commons-kiwi-500.jpg
 image-thumb: /images/creative-commons-kiwi-200.jpg

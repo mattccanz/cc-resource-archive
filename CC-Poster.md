@@ -1,8 +1,8 @@
 ---
 title: Creative Commons Licence Poster
 published: true
-weight: 3
-featured: 
+weight: 1
+featured: 2 
 layout: resource
 image-full: /images/CCPoster500375.jpg
 image-thumb: /images/CCPoster200150.jpg

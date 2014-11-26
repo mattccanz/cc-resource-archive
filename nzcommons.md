@@ -2,11 +2,11 @@
 title: NZCommons	
 published: true
 weight: 2
-featured: 
+featured: 5 
 layout: resource
 image-full: /images/NZCommons500375.jpg
 image-thumb: /images/NZCommons200150.jpg
-topic: licences
+topic: licenses
 language: en
 medium: website
 permalink: /nzcommons/

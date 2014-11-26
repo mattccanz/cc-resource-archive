@@ -2,7 +2,7 @@
 title: Why Open Education Matters
 published: true
 weight: 3
-featured: 10
+featured: 
 layout: resource
 image-full: /images/why-open-education-matters-500.gif
 image-thumb: /images/why-open-education-matters-200.gif

@@ -2,7 +2,7 @@
 title: Open Access in Aotearoa
 published: true
 weight: 1
-featured: 
+featured: 6
 layout: resource
 image-full: /images/OAinAoteroa500375.jpg
 image-thumb: /images/OAinAotearoa200150.jpg
