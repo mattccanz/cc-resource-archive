@@ -9,3 +9,6 @@
 
 - name: Open GLAM
   string: openglam
+
+- name: Policies for Schools
+  string: schools
