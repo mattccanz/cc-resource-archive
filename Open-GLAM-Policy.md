@@ -4,8 +4,8 @@ published: true
 weight: 2
 featured: 10 
 layout: resource
-image-full: /images/openglampolicy500375.jpg
-image-thumb: /images/openglampolicy200150.jpg
+image-full: /images/Openglampolicy500375.jpg/
+image-thumb: /images/Openglampolicy200150.jpg/
 topic: openglam
 language: en
 medium: print
@@ -18,3 +18,5 @@ license: CC BY
 ---
 
 Open GLAM policy, based on the use and reuse policy of the National Library of New Zealand Te Puna Matauranga o Aotearoa. 
+
+"Archives NZ Lower Level THree Stacks" courtesy of Archives New Zealand, CC-BY: http://www.flickr.com/photos/archivesnz/8759939806

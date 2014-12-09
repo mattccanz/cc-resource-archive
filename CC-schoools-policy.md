@@ -4,12 +4,12 @@ published: true
 weight: 2
 featured: 9
 layout: resource
-image-full: image/ccpolicy500375.jpg
-image-thumb: image/ccpolicy200150.jpg
+image-full: /images/ccpolicy500375.jpg
+image-thumb: /images/ccpolicy200150.jpg
 topic: oer
 language: en
 medium: print
-permalink: /cc-schools-policy
+permalink: /cc-schools-policy/
 blurb: Annotated Creative Commons Policy for New Zealand schools
 downloadurl: http://creativecommons.org.nz/wp-content/uploads/2014/12/CCSchoolPolicywithannotations4.odt
 embed:
