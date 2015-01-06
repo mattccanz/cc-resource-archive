@@ -17,3 +17,4 @@ author: Creative Commons Aotearoa New Zealand
 license: CC BY 
 ---
 
+These guides by DigitalNZ at the National Library of New Zealand provide detailed advice on digitisation in the New Zealand culture and heritage sector. 

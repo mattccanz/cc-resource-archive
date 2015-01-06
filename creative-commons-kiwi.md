@@ -16,5 +16,4 @@ embed: <iframe src="//player.vimeo.com/video/25684782" width="500" height="281" 
 author: Creative Commons Aotearoa New Zealand
 license: CC BY 3.0
 ---
-
-A quick video on the basics of Creative Commons. Downloadable from [Vimeo](//vimeo.com/25684782) and [Internet Archive](//archive.org/details/CreativecommonsKiwi).
+Our world famous video explaining Creative Commons, with the equally world famous CC Kiwi. Downloadable from [Vimeo](//vimeo.com/25684782) and [Internet Archive](//archive.org/details/CreativecommonsKiwi).

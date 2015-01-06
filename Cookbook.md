@@ -16,4 +16,6 @@ embed:
 author: Creative Commons Aotearoa New Zealand
 license: CC BY 
 ---
+In November 2013, a range of lecturers and researcher got together and wrote, in a weekend, 'Media Studies 101 - a Creative Commons Textbook.'
 
+In 2014, Erika Pearson, who spearheaded the project, published the accompanying 'Cookbook', outlining the successes, failures and challenges of writing an undergraduate open textbook in 48 hours. 

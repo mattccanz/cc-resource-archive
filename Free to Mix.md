@@ -16,5 +16,4 @@ embed:
 author: Creative Commons Aotearoa New Zealand
 license: CC BY 3.0
 ---
-
-A short introduction for high schools students to finding and remixing open content
+A short introduction to finding and remixing open content for high schools students. Feel free to print your own, or contact matt@creativecommons.org.nz, and we'll send you some. 
