@@ -16,5 +16,3 @@ embed:
 author: Creative Commons Aotearoa New Zealand
 license: CC BY 
 ---
-
-NZCommons is the community hub for New Zealand's open communities. Updated every week, the site features comment, analysis and discussion of a range of issues in copyright, open access and the commons.

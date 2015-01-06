@@ -7,9 +7,6 @@
 - name: Website
   string: website
 
-- name: Article
-  string: article
-
 - name: Course
   string: course
 

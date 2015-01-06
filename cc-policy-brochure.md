@@ -6,7 +6,7 @@ featured: 4
 layout: resource
 image-full: /images/PoliciesforSchools500375.jpg
 image-thumb: /images/PoliciesforSchools200150.jpg
-topic: oer schools
+topic: oer
 language: en
 medium: print
 permalink: /creative-commons-policies-for-schools-brochure/	
@@ -16,4 +16,3 @@ embed:
 author: Creative Commons Aotearoa New Zealand
 license: CC BY 
 ---
-A short print brochure that explains why New Zealand schools should adopt a Creative Commons policy. Feel free to print your own, or contact matt@creativecommons.org.nz, and we'll send you some. 

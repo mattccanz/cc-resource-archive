@@ -1,14 +1,14 @@
-- name: Creative Commons Licences
+- name: Licences
   string: licenses
   
 - name: Open Educational Resources
   string: oer
   
-- name: Open Research
+- name: Open Access
   string: oa
 
 - name: Open GLAM
   string: openglam
 
-- name: CC Policies for Schools
+- name: Policies for Schools
   string: schools

@@ -16,5 +16,3 @@ embed:
 author: Creative Commons Aotearoa New Zealand
 license: CC BY 
 ---
-
-Open Access in Aotearoa is a twelve page print introduction to open access to research in the New Zealand context. Feel free to print your own, or contact matt@creativecommons.org.nz, and we'll send you some. 

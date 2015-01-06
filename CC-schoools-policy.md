@@ -6,7 +6,7 @@ featured: 9
 layout: resource
 image-full: /images/CCPolicy500375.jpg
 image-thumb: /images/CCPolicy200150.jpg
-topic: oer schools
+topic: oer
 language: en
 medium: print
 permalink: /cc-schools-policy/
@@ -16,4 +16,7 @@ embed:
 author: Creative Commons Aotearoa New Zealand
 license: CC BY 
 ---
-This is a short, annotated Creative Commons policy for New Zealand schools to use and adapt. You can <a href="http://creativecommons.org.nz/wp-content/uploads/2014/12/Generic-CCSchoolPolicy.odt">also download the policy without annotations here</a>. <a href="http://www.flickr.com/photos/kalexanderson/5996465579/">The cover image</a> is by Kristina Alexanderson, CC-BY-SA.
+
+You can also download the policy without annotations here: http://creativecommons.org.nz/wp-content/uploads/2014/12/Generic-CCSchoolPolicy.odt 
+
+Cover image by Kristina Alexanderson, CC-BY-SA: http://www.flickr.com/photos/kalexanderson/5996465579/
