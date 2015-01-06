@@ -17,6 +17,4 @@ author: Creative Commons Aotearoa New Zealand
 license: CC BY 
 ---
 
-Open GLAM policy, based on the use and reuse policy of the National Library of New Zealand Te Puna Matauranga o Aotearoa. 
-
-"Archives NZ Lower Level Three Stacks" courtesy of Archives New Zealand, CC-BY: http://www.flickr.com/photos/archivesnz/8759939806
+A generic open GLAM policy, based on the use and reuse policy of the National Library of New Zealand Te Puna Matauranga o Aotearoa, for reuse by New Zealand GLAM organisations. Cover image, <a href="http://www.flickr.com/photos/archivesnz/8759939806">"Archives NZ Lower Level Three Stacks,"</a> is by Archives New Zealand, CC-BY.

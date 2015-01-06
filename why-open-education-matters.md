@@ -6,7 +6,7 @@ featured:
 layout: resource
 image-full: /images/why-open-education-matters-500.gif
 image-thumb: /images/why-open-education-matters-200.gif
-topic: oer
+topic: oer schools
 language: en
 medium: video
 permalink: /why-open-education-matters/
