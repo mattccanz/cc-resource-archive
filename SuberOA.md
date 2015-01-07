@@ -9,7 +9,7 @@ image-thumb: /images/SuberOA200150.jpg
 topic: oa
 language: en
 medium: article
-permalink: /suberoa
+permalink: /suberoa/
 blurb: Seminal introduction to Open Access
 downloadurl: http://mitpress.mit.edu/sites/default/files/titles/content/openaccess/Suber_05_toc.html
 embed:
