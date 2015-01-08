@@ -4,8 +4,8 @@ published: true
 weight: 3
 featured: 
 layout: resource
-image-full: /images/SuberOA500375.jpg
-image-thumb: /images/SuberOA200150.jpg
+image-full: /images/OASuber500375.jpg
+image-thumb: /images/OASuber200150.jpg
 topic: oa
 language: en
 medium: article
