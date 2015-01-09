@@ -10,7 +10,7 @@ topic: openglam
 language: en
 medium: article
 permalink: /te-papa-case-study/
-blurb: Te Papa Case Study
+blurb: Case study of Te Papa's open release of over 30,000 high resolution images
 downloadurl: http://nzcommons.org.nz/project/te-papas-openly-licensed-images/
 embed:
 author: Creative Commons Aotearoa New Zealand
