@@ -4,8 +4,8 @@ title: Australian Open Access Support Group
 published: true
 weight: 4
 featured: 
-image-full: /images/aoasg500375.jpeg
-image-thumb: /images/aoasg200150.jpeg
+image-full: /images/aoasg500375.jpg
+image-thumb: /images/aoasg200150.jpg
 topic: oa
 language: en
 medium: web
