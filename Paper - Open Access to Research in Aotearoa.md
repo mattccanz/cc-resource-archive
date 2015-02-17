@@ -1,9 +1,9 @@
 ---
-title: Paper: Open Access to Research in Aotearoa
+layout: resource
+title: Open Access to Research in Aotearoa
 published: true
 weight: 1
-featured: 11
-layout: resource
+featured:
 image-full: /images/Research500375.jpg
 image-thumb: /images/Research200150.jpg
 topic: oa

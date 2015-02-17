@@ -1,11 +1,11 @@
 ---
-title: Paper: Policies for Open Culture and Heritage
+layout: resource
+title: Policies for Open Culture and Heritage
 published: true
 weight: 1
-featured: 12
-layout: resource
-image-full: /images/Heritage500375.jpg
-image-thumb: /images/Heritage200150.jpg
+featured: 
+image-full: /images/heritage500375.jpg
+image-thumb: /images/heritage200150.jpg
 topic: openglam
 language: en
 medium: print
