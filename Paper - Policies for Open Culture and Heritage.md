@@ -2,7 +2,7 @@
 title: Paper: Policies for Open Culture and Heritage
 published: true
 weight: 1
-featured: 1
+featured: 12
 layout: resource
 image-full: /images/Heritage500375.jpg
 image-thumb: /images/Heritage200150.jpg
