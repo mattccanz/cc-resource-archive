@@ -4,8 +4,8 @@ title: Policies for Open Culture and Heritage
 published: true
 weight: 1
 featured: 
-image-full: /images/heritage500375.jpg
-image-thumb: /images/heritage200150.jpg
+image-full: /images/Heritage500375.jpg
+image-thumb: /images/Heritage200150.jpg
 topic: openglam
 language: en
 medium: print
