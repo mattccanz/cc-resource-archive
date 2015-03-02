@@ -1,0 +1,22 @@
+---
+title: CC for Donors and Depositors
+published: true
+weight: 2
+featured:  
+layout: resource
+image-full: /images/DD200150.jpg 
+image-thumb: /images/DD200150.jpg
+topic: openglam
+language: en
+medium: print
+permalink: /Donors/
+blurb: A short brochure for donors and depositors looking to make their work more openly available. 
+downloadurl: http://creativecommons.org.nz/wp-content/uploads/2015/03/09-02-2015-Donors-and-Depositors.pdf
+embed:
+author: Creative Commons Aotearoa New Zealand
+license: CC BY 
+---
+
+This short brochure provides advice to GLAM staff and donors and depositors on Creative Commons licensing. The brochure also includes a licence chart for reference. 
+
+For a print version of the brochure, please email admin@creativecommons.org.nz 

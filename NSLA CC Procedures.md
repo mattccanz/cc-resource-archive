@@ -10,7 +10,7 @@ topic: openglam
 language: en
 medium: print
 permalink: /NLSA/
-blurb: Two procedural guidelines for Australasian Libraries from NASL
+blurb: Two page procedural guidelines for Australasian Libraries from NASL
 downloadurl: http://www.nsla.org.au/publication/creative-commons-procedural-guidelines
 embed:
 author: Creative Commons Aotearoa New Zealand
