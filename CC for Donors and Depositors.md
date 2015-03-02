@@ -4,7 +4,7 @@ published: true
 weight: 2
 featured:  
 layout: resource
-image-full: /images/DD200150.jpg 
+image-full: /images/DD500375.jpg 
 image-thumb: /images/DD200150.jpg
 topic: openglam
 language: en
