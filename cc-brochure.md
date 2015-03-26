@@ -9,7 +9,7 @@ image-thumb: /images/ccbrochure200150.jpg
 topic: licenses oer oa openglam schools
 language: en
 medium: print
-permalink: /ccbrochure
+permalink: /ccbrochure/
 blurb: Creative Commons Aotearoa NZ Introductory Brochure
 downloadurl: /downloads/ccguides/ccbrochure.pdf
 embed:
