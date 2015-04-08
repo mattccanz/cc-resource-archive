@@ -2,7 +2,7 @@
 title: Creative Commons Brochure
 published: true
 weight: 1
-featured: 
+featured: 7
 layout: resource
 image-full: /images/CCbrochure500375.jpg
 image-thumb: /images/CCbrochure200150.jpg
