@@ -11,7 +11,7 @@ language: en
 medium: print
 permalink: /creative-commons-policies-for-schools/
 blurb: Introductory paper on the need for Creative Commons policies in New Zealand schools
-downloadurl: http://creativecommons.org.nz/wp-content/uploads/2015/02/Paper-Creative-Commons-Policies-for-Schools.pdf
+downloadurl: http://tiny.cc/p5ow0x/
 embed:
 author: Creative Commons Aotearoa New Zealand
 license: CC BY 

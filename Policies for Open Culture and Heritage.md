@@ -11,7 +11,7 @@ language: en
 medium: print
 permalink: /policies-for-open-culture-and-heritage/
 blurb: Introductory paper on the need for open access and open licensing to culture and heritage.
-downloadurl: http://creativecommons.org.nz/wp-content/uploads/2015/02/02-02-2015-Heritage.pdf
+downloadurl: http://tiny.cc/openglam/
 embed:
 author: Creative Commons Aotearoa New Zealand
 license: CC BY 
