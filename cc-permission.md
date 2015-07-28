@@ -1,5 +1,5 @@
 ---
-title: Creative Commons for Schools Policy
+title: Creative Commons Permission Form
 published: true
 weight: 3
 featured: 
