@@ -4,8 +4,8 @@ published: true
 weight: 3
 featured: 
 layout: resource
-image-full: /images/permission500375.jpg
-image-thumb: /images/permission200150.jpg
+image-full: /images/Permission500375.jpg
+image-thumb: /images/Permission200150.jpg
 topic: oer schools
 language: en
 medium: web
