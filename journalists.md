@@ -2,7 +2,7 @@
 title: Creative Commons for Journalists
 layout: resource
 published: true
-weight: 4
+weight: 2
 featured: 
 author: Creative Commons Aotearoa New Zealand
 license: CC BY 4.0
